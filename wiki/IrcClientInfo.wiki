@@ -1,6 +1,6 @@
 =inxi moved to github=
 
-Due to being unable to find anything else, I've moved inxi to github. You can find it [https://github.com/smxi/inxi at github inxi]. I won't have it all setup for a bit, and will probably migrate the wiki here to [http://smxi.org/ smxi.org], where it belongs, so I don't have to deal with having to move it ever again.
+The inxi source repositories  and issue tracker have been moved to github. You can find them at [https://github.com/smxi/inxi github inxi]. The documentation / wiki has been moved to [http://smxi.org/inxi/ smxi.org/inxi/], which will be its permanent home. The support forums are at [http://techpatterns.com/forums/forum-33.html techpatterns.com/forums/]. IRC support is at irc.oftc.net channel #smxi.
 
 = irc clients =
 
