@@ -1,4 +1,8 @@
 #summary How to use inxi in various IRC clients.
+=inxi moved to github=
+
+Due to being unable to find anything else, I've moved inxi to github. You can find it [https://github.com/smxi/inxi at github inxi]. I won't have it all setup for a bit, and will probably migrate the wiki here to [http://smxi.org/ smxi.org], where it belongs, so I don't have to deal with having to move it ever again.
+
 =Inxi Usage=
 inxi -`<`color`>` -`<`[http://code.google.com/p/inxi/wiki/inxi option]`>`
 
